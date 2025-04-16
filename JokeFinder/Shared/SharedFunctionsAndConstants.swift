@@ -2,7 +2,6 @@
 //  SharedFunctionsAndConstants.swift
 //  JokeFinder
 //
-//  Created by 李泽宇 on 2025-04-01.
 //
 
 import Foundation
